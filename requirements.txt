@@ -1,0 +1,15 @@
+```
+requests>=2.31.0
+aiohttp>=3.8.5
+tldextract>=3.4.0
+beautifulsoup4>=4.12.2
+langchain>=0.2.0
+langchain-huggingface>=0.0.3
+langchain-community>=0.2.0
+faiss-cpu>=1.8.0
+certifi>=2023.7.22
+transformers>=4.35.0
+tf-keras>=2.15.0
+tensorflow>=2.15.0
+python-dotenv>=1.0.0
+```
