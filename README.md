@@ -1,4 +1,4 @@
-# AI Debate System
+# AI Agents based Debate System
 
 The AI Debate System is a Python-based project that uses **multiple AI models** to debate with each other before giving you a final answer.  
 Instead of relying on one AI’s opinion, it makes them **argue, fact-check, and refine their responses** to produce the most **accurate and well-supported answer possible**.
@@ -105,3 +105,4 @@ requirements.txt # Dependencies
 ## contact
 
 - hspatil000@gmail.com
+
