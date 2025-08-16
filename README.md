@@ -102,7 +102,13 @@ requirements.txt # Dependencies
 
 ---
 
+## how to run 
+- add gemini api and deepseek api in .env file and just run the main.py file
+
+---
+
 ## contact
 
 - hspatil000@gmail.com
+
 
